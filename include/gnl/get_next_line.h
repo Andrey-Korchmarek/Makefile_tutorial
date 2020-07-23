@@ -1,0 +1,8 @@
+//
+// Created by mendreik on 23.07.20.
+//
+
+#ifndef MAKEFILE_TUTORIAL_GET_NEXT_LINE_H
+#define MAKEFILE_TUTORIAL_GET_NEXT_LINE_H
+
+#endif //MAKEFILE_TUTORIAL_GET_NEXT_LINE_H
